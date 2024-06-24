@@ -3,8 +3,7 @@
 ```python
 Name = "Mounish R"
 who_i_am = ['Coding = pc💙']
-Do Check Our Bots = "Useful"
-Country = "🇮🇳"
+Location = "TAMILNADU , INDIA"
 ```
 
 
