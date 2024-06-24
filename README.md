@@ -12,10 +12,9 @@ Country = "🇮🇳"
 
 
 
-- 👨‍💻 I'm a Bot Developer .
-- 👋 Hi, I’m Studing
-- 👀 I’m interested in ... Technology
-- 🌱 I’m currently learning ...
+- 👨‍💻 I'm COMPUTER SCIENCE ENGINEERING Student.
+- 👀 I’m interested in Sofware Developement.
+- 🌱 I’m currently learning  C,C++.
 
 - 📫 How to reach me ...[Instagram]()
 
