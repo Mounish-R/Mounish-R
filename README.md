@@ -49,14 +49,6 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 <br />
-
-
-## Github Trophy🏆
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=itsyogieu&theme=onedark)](https://github.com/itsyogieu)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsyogieu&theme=chartreuse-dark&hide_border=True" alt="itsyogieu"/></p>
-
 <p align="center">
     <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20💙-red?style=for-the-badge&logo=github"/>
 </p>
