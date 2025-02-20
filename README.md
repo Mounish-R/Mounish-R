@@ -20,7 +20,6 @@ I'm a final-year **BE-CSE** student at **Bannari Amman Institute of Technology**
 - Developed and hosted a **task manager webpage** using React and Supabase.
 
 ## 📫 Connect With Me
-- **GitHub:** [Mounish-R](https://github.com/Mounish-R)
 - **LinkedIn:** [Mounish R](https://www.linkedin.com/in/mounish-r-268a57257/)
 - **Email:** rmounish44@gmail.com
 
