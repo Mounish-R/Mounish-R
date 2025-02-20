@@ -1,7 +1,7 @@
 # Hi there, I'm Mounish R! 👋
 
 ## 🚀 About Me
-I'm a final-year **BE-CSE** student at **Bannari Amman Institute of Technology**, passionate about **web development, AI, and system design**. Currently, I'm focusing on **placements** and aiming to get placed within the next six months in an **IT services company**.
+I'm a final-year **BE-CSE** student at **Bannari Amman Institute of Technology**, passionate about **web development, AI, and system design**. Currently, I'm focusing on **placements**.
 
 ## 🔥 Interests & Skills
 - **Programming:** C, Python, JavaScript
@@ -11,17 +11,17 @@ I'm a final-year **BE-CSE** student at **Bannari Amman Institute of Technology**
 
 ## 📌 Current Projects
 - **[Assessment Portal](https://github.com/Mounish-R/Assessment-Portal)** – A test portal with admin and user dashboards.
-- **Disaster Management System** – Uses **Bolt AI, Supabase, and Google Maps API** for disaster prediction and mapping.
-- **College Enquiry Chatbot** – Flask-based chatbot handling university-related queries.
+- **Student Management Portal** – A system for managing student records, attendance, and performance tracking.
+- **Portfolio Website** – A personal portfolio showcasing projects, skills, and achievements.
 
-## 🎯 Goals
-- Strengthening **DSA and system design** for placements.
-- Enhancing **React.js and backend skills**.
-- Exploring **new AI and ML projects**.
+## 🌟 Achievements
+- **100 Days of LeetCode Practice** completed.
+- **Networking Basics Certification** from Cisco.
+- Developed and hosted a **task manager webpage** using React and Supabase.
 
 ## 📫 Connect With Me
 - **GitHub:** [Mounish-R](https://github.com/Mounish-R)
-- **LinkedIn:** [LinkedIn Profile](#)
-- **Email:** mounishr@example.com
+- **LinkedIn:** [Mounish R](https://www.linkedin.com/in/mounish-r-268a57257/)
+- **Email:** rmounish44@gmail.com
 
 Let's collaborate and build something awesome! 🚀
