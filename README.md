@@ -17,7 +17,7 @@ I'm a final-year **BE-CSE** student at **Bannari Amman Institute of Technology**
 ## 🌟 Achievements
 - **100 Days of LeetCode Practice** completed.
 - **Networking Basics Certification** from Cisco.
-- Developed and hosted a **task manager webpage** using React and Supabase.
+- Developed and hosted a **task manager webpage** using React with Supabase and Hosted on netlify.
 
 ## 📫 Connect With Me
 - **LinkedIn:** [Mounish R](https://www.linkedin.com/in/mounish-r-268a57257/)
