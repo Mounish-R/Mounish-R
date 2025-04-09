@@ -1,13 +1,13 @@
 # Hi there, I'm Mounish R! 👋
 
 ## 🚀 About Me
-I'm a final-year **BE-CSE** student at **Bannari Amman Institute of Technology**, passionate about **web development, AI, and system design**. Currently, I'm focusing on **placements**.
+I'm a final-year **BE-CSE** student at **Bannari Amman Institute of Technology**, passionate about **web development, AI, and system design**.
 
 ## 🔥 Interests & Skills
 - **Programming:** C, Python, JavaScript
-- **Web Development:** React.js, Angular, Supabase, MongoDB
-- **Databases:** Supabase, MongoDB, SQLite
-- **Tools & Platforms:** Git, Netlify, Firebase
+- **Web Development:** React.js, Angular, MongoDB
+- **Databases:** MongoDB
+- **Tools & Platforms:** Git, Netlify, vercelapp
 ## 📌 Current Projects
 
 - **[Assessment Portal](https://github.com/Mounish-R/Assessment-Portal)** – A test portal with admin and user dashboards.
